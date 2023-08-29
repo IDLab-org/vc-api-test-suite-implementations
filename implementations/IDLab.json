@@ -1,0 +1,14 @@
+{
+  "name": "IDLab",
+  "implementation": "DTT (Digital Trust Test Bench)",
+  "issuers": [{
+    "id": "did:key:z6Mkt5HkthcTNU9zrD9Scqp4kE7Gfxzdwm5DMVB3b215FfcQ",
+    "endpoint": "https://vc-api.dtt.idlab.app/credentials/issue",
+    "options": {
+      "type": "Ed25519Signature2018"
+    },
+    "tags": []
+  }],
+  "verifiers": [],
+  "vpVerifiers": []
+}
